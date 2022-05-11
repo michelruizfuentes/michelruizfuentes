@@ -4,7 +4,7 @@ My name is Michel, and I am studying Statistical and Data Science at Smith Colle
 
 ### 🌼 Summer 2021
     
-NSF INSPIRE U2: Statistics Scholar at National Science Foundation Research Experience for Undergraduates (Spelman College)
+NSF INSPIRE U2: Statistics Scholar at National Science Foundation Research Experience for Undergrads
 
     - Research Project | Quantifying the Relationship Between the Elements of Market Structure and Profit Rate 
     of Advertising Intensive Firms

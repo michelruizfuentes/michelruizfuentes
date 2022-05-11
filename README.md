@@ -28,7 +28,7 @@ SDS237 Data Ethnography
     
 SDS220 Introduction to Statistics & Probability 
 
-    - Final Project 220 | Sickle Cell Disease Death Toll in Terms of Age Group
+    - Final Project 220 | Sickle Cell Disease Death Toll Measured by Age group
     
 SDS291 Multiple Regression
 

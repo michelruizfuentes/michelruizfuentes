@@ -6,6 +6,7 @@ My name is Michel, and I am studying Statistical and Data Science at Smith Colle
 
 - Kode with Klossy: Mobile Application Development Scholar
     - Final Project KWK | "Sustainable You" iOS App Template
+    
 -  National Science Foundation Research Experience for Undergrads (NSF INSPIRE U2): Statistics Research Scholar
     - Research Project | Regression Analysis of Firm Profits Based on Elements of Market Structure
 
@@ -14,13 +15,16 @@ My name is Michel, and I am studying Statistical and Data Science at Smith Colle
 
 - SDS192 Introduction to Data Science 
     - PS07 | Build your first README 
-    - MP2 | Following the money data analysis (fec16 package)
-    - MP3 | Creating Static Maps data analysis (sf package)
+    - MP2 | Follow the Money 
+    - MP3 | Creating Static Maps 
     - Final Project 192 | Analyzing Unequal Opportunities in Education
+    
 - SDS237 Data Ethnography 
     - Final Project 237 | Vaccine Adverse Event Reporting System User Guide 
+    
 - SDS220 Introduction to Statistics & Probability 
     - Final Project 220 | Sickle Cell Disease Death Toll in Terms of Age Group
+    
 - SDS291 Multiple Regression
     - Final Project 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups
  

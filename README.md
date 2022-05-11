@@ -10,7 +10,8 @@ Kode with Klossy: Mobile Application Development Scholar
     
 National Science Foundation Research Experience for Undergrads (NSF INSPIRE U2): Statistics Research Scholar
 
-    - Research Project | Quantifying the Relationship Between the Elements of Market Structure and Profit Rate of Advertising Intensive Firms
+    - Research Project | Quantifying the Relationship Between the Elements of Market Structure and Profit Rate 
+    of Advertising Intensive Firms
 
 
 ### 📗 Academic Year 2021/22   

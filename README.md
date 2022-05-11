@@ -4,9 +4,9 @@ My name is Michel, and I am studying Statistical and Data Science at Smith Colle
 
 ### 📙 Summer 2021
 
-- Kode with Klossy: Mobile Application Development Program 
+- Kode with Klossy: Mobile Application Development Scholar
     - Final Project KWK | "Sustainable You" iOS App Template
-- Statistics Research Experience with the National Science Foundation (NSF INSPIRE U2 REU)
+-  National Science Foundation Research Experience for Undergrads (NSF INSPIRE U2): Statistics Research Scholar
     - Research Project | Regression Analysis of Firm Profits Based on Elements of Market Structure
 
 

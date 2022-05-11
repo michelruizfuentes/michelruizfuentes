@@ -3,10 +3,6 @@
 My name is Michel, and I am studying Statistical and Data Science at Smith College. Below I have attached independent and group projects I have worked on using the R programming language~
 
 ### 🌼 Summer 2021
-
-Kode with Klossy: Mobile Application Development Scholar
-
-    - Final Project KWK | "Sustainable You" iOS App Template
     
 National Science Foundation Research Experience for Undergrads (NSF INSPIRE U2): Statistics Research Scholar
 
@@ -63,3 +59,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Kode with Klossy: Mobile Application Development Scholar
+
+    - Final Project KWK | "Sustainable You" iOS App Template

@@ -2,7 +2,7 @@
 
 My name is Michel, and I am studying Statistical and Data Science at Smith College. Below I have attached independent and group projects I have worked on using the R programming language~
 
-### 📙 Summer 2021
+### 🌼 Summer 2021
 
 Kode with Klossy: Mobile Application Development Scholar
 
@@ -34,6 +34,12 @@ SDS220 Introduction to Statistics & Probability
 SDS291 Multiple Regression
 
     - Final Project 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups
+    
+### 📘 Academic Year 2022/23
+
+SDS270 Advanced Programming for Data Science 
+
+
  
  ### 💻 Contact Information 
  

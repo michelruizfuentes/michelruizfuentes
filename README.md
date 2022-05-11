@@ -17,9 +17,9 @@ National Science Foundation Research Experience for Undergrads (NSF INSPIRE U2):
 
 SDS192 Introduction to Data Science 
 
-    - PS07 | Build your first README 
-    - MP2 | Follow the Money 
-    - MP3 | Creating Static Maps 
+    - Problem Set7 (PS07) | Build your first README 
+    - Mini Project2 (M2) |Follow the Money 
+    - Mini Project3 (M3) | Creating Static Maps 
     - Final Project 192 | Analyzing Unequal Opportunities in Education
     
 SDS237 Data Ethnography 

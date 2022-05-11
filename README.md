@@ -39,7 +39,11 @@ SDS291 Multiple Regression
 
 SDS270 Advanced Programming for Data Science 
 
+    - TBD
 
+LSS260 Visual Storytelling: Graphics, Data and Design 
+
+    - TBD
  
  ### 💻 Contact Information 
  

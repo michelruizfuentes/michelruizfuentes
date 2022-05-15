@@ -2,15 +2,12 @@
 
 My name is Michel, and I am studying Statistical and Data Science at Smith College. Below I have attached independent and group projects I have worked on using the R programming language~
 
-### 🌼 Summer 2021
-    
+### 📗 Academic Year 2021/22   
+
 NSF INSPIRE U2: Statistics Scholar at National Science Foundation Research Experience for Undergrads
 
     - Research Project | Quantifying the Relationship Between the Elements of Market Structure and Profit Rate 
     of Advertising Intensive Firms
-
-
-### 📗 Academic Year 2021/22   
 
 SDS192: Introduction to Data Science 
 
@@ -31,10 +28,6 @@ SDS291: Multiple Regression
 
     - Final Project 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups
     
-### 🌸 Summer 2022
-
-    - TBD
-
 ### 📘 Academic Year 2022/23
 
 SDS270: Advanced Programming for Data Science 
@@ -62,8 +55,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 Kode with Klossy: Mobile Application Development Scholar
 
     - Final Project KWK | "Sustainable You" iOS App Template
+-->
+

@@ -4,6 +4,7 @@ My name is Michel, and I am studying Statistical and Data Science at Smith Colle
 
 ### 📗 Academic Year 2021/22   
 
+
 NSF INSPIRE U2: Statistics Scholar at National Science Foundation Research Experience for Undergrads
 
     - Research Project | Quantifying the Relationship Between the Elements of Market Structure and Profit Rate 
@@ -30,6 +31,7 @@ SDS291: Multiple Regression
     
 ### 📘 Academic Year 2022/23
 
+
 SDS270: Advanced Programming for Data Science 
 
     - TBD
@@ -39,6 +41,7 @@ LSS260: Visual Storytelling: Graphics, Data and Design
     - TBD
  
  ### 💻 Contact Information 
+ 
  
 You can reach me at mruizfuentes@smith.edu. Thank you for visiting my page!
 

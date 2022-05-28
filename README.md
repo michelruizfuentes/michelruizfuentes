@@ -29,16 +29,7 @@ SDS291: Multiple Regression
 
     - Final Project 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups
     
-### 📘 Academic Year 2022/23
 
-
-SDS270: Advanced Programming for Data Science 
-
-    - TBD
-
-LSS260: Visual Storytelling: Graphics, Data and Design 
-
-    - TBD
  
  ### 💻 Contact Information 
  

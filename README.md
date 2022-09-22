@@ -4,7 +4,7 @@ My name is Michel, and I am studying Statistical and Data Science at Smith Colle
 
 ### 📗 Academic Year 2021/22   
 
-    - Quantifying the Relationship Between Elements of Market Structure and Profit Rates of Advertising Intensive Firms
+    - Quantifying the Relationship Between Elements of Market Structure & Profit Rates of Advertising Intensive Firms
     - Problem Set7 (PS7) | Build your first README 
     - Mini Project2 (M2) | Follow the Money 
     - Mini Project3 (M3) | Creating Static Maps 
@@ -12,6 +12,7 @@ My name is Michel, and I am studying Statistical and Data Science at Smith Colle
     - Final Project 237 | Vaccine Adverse Event Reporting System User Guide 
     - Final Project 220 | Sickle Cell Disease Death Toll Measured by Age group
     - Final Project 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups   
+ 
  ### 📗 Academic Year 2022/23
     
  ### 💻 Contact Information 

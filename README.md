@@ -11,8 +11,7 @@ My name is Michel, and I am studying Statistical and Data Science at Smith Colle
     - Final Project 192  | Analyzing Unequal Opportunities in Education
     - Final Project 237 | Vaccine Adverse Event Reporting System User Guide 
     - Final Project 220 | Sickle Cell Disease Death Toll Measured by Age group
-    - Final Project 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups
-    
+    - Final Project 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups   
  ### 📗 Academic Year 2022/23
     
  ### 💻 Contact Information 

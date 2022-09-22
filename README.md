@@ -4,33 +4,16 @@ My name is Michel, and I am studying Statistical and Data Science at Smith Colle
 
 ### 📗 Academic Year 2021/22   
 
-
-NSF INSPIRE U2: Statistics Research Scholar at National Science Foundation Research Experience for Undergrads
-
     - Research Project | Quantifying the Relationship Between the Elements of Market Structure and Profit Rate 
     of Advertising Intensive Firms
-
-SDS192: Introduction to Data Science 
-
     - Problem Set7 (PS7) | Build your first README 
     - Mini Project2 (M2) | Follow the Money 
     - Mini Project3 (M3) | Creating Static Maps 
     - Final Project 192  | Analyzing Unequal Opportunities in Education
-    
-SDS237: Data Ethnography 
-
     - Final Project 237 | Vaccine Adverse Event Reporting System User Guide 
-    
-SDS220: Introduction to Statistics & Probability 
-
     - Final Project 220 | Sickle Cell Disease Death Toll Measured by Age group
-    
-SDS291: Multiple Regression
-
     - Final Project 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups
     
-
- 
  ### 💻 Contact Information 
  
  

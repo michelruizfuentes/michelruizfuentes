@@ -14,6 +14,8 @@ My name is Michel, and I am studying Statistical and Data Science at Smith Colle
     - Final Project 220 | Sickle Cell Disease Death Toll Measured by Age group
     - Final Project 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups
     
+ ### 📗 Academic Year 2022/23
+    
  ### 💻 Contact Information 
  
  

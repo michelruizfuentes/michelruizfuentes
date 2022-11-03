@@ -1,8 +1,8 @@
 ### Welcome to my GitHub 👋
 
-My name is Michel, and I am studying Statistical and Data Science at Smith College. Below I have attached independent and group projects I have worked on using the R programming language~
+My name is Michel, and I am studying Statistical and Data Science at Smith College. Below I have attached independent and group projects~
 
-### 📗 Academic Year 2021/22   
+### 📗 2021/22 AY  
 
     - Quantifying the Relationship Between Elements of Market Structure & Profit Rates of Advertising Intensive Firms
     - Problem Set7 (PS7) | Build your first README 
@@ -13,7 +13,7 @@ My name is Michel, and I am studying Statistical and Data Science at Smith Colle
     - Final Project 220 | Sickle Cell Disease Death Toll Measured by Age group
     - Final Project 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups   
  
- ### 📗 Academic Year 2022/23
+ ### 📗 2022/23 AY
     
  ### 💻 Contact Information 
  

@@ -1,7 +1,5 @@
 ### Welcome to my GitHub 👋
 
-My name is Michel, and I am studying Statistical and Data Science at Smith College. Below I have attached independent and group projects~
-
 ### 📗 2021/22 AY  
 
     - Quantifying the Relationship Between Elements of Market Structure & Profit Rates of Advertising Intensive Firms

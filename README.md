@@ -2,14 +2,16 @@
 
 ### 📗 2021/22 AY  
 
-    - PS7 | Build your first README 
-    - M2 | Follow the Money using `fec16`
-    - M3 | Creating Static Maps 
-    - Final Project 192  | Analyzing Unequal Opportunities in Education: https://nervous-nightingale-6b8dc0.netlify.app/index.html
+   - PS7 | Build your first README 
+   - M2 | Follow the Money using `fec16`
+   - M3 | Creating Static Maps 
   
-    - Final Project 220 | Sickle Cell Disease Death Toll Measured by Age group
-    - Final Project 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups 
-    - Final Project 237 | Vaccine Adverse Event Reporting System User Guide 
+  #### Final Projects
+  
+   - 192 | Analyzing Unequal Opportunities in Education: https://nervous-nightingale-6b8dc0.netlify.app/index.html
+   - 220 | Sickle Cell Disease Death Toll Measured by Age group
+   - 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups 
+   - 237 | Vaccine Adverse Event Reporting System User Guide 
  
  ### 📗 2022/23 AY
  

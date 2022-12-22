@@ -2,9 +2,9 @@
 
 ### 📗 2021/22 AY  
 
-   - PS7 | Build your first README 
-   - M2 | Follow the Money using `fec16`
-   - M3 | Creating Static Maps 
+   - 192 | PS7 Build your first README 
+   - 192 | M2 Follow the Money using `fec16`
+   - 192 | M2 Creating Static Maps 
   
   #### Final Projects
   

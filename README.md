@@ -9,11 +9,11 @@
   #### Final Projects
   
    - 192 | Analyzing Unequal Opportunities in Education: 
-         - https://nervous-nightingale-6b8dc0.netlify.app/index.html
+   - ^ https://nervous-nightingale-6b8dc0.netlify.app/index.html
+   - 237 | Vaccine Adverse Event Reporting System User Guide: 
+   - ^ https://github.com/SDS-237-Data-Ethnography-Fall-21/final-project-group1/blob/main/final-project.Rmd
    - 220 | Sickle Cell Disease Death Toll Measured by Age group
    - 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups 
-   - 237 | Vaccine Adverse Event Reporting System User Guide: 
-         - https://github.com/SDS-237-Data-Ethnography-Fall-21/final-project-group1/blob/main/final-project.Rmd
  
  ### 📗 2022/23 AY
  

@@ -13,6 +13,7 @@
    - 237 | Vaccine Adverse Event Reporting System User Guide: 
    - ^ https://github.com/SDS-237-Data-Ethnography-Fall-21/final-project-group1/blob/main/final-project.Rmd
    - 220 | Sickle Cell Disease Death Toll Measured by Age group
+   - ^ https://github.com/michelruizfuentes/-SDS220-FinalProject/blob/main/sds220_Project%20Draft%20ETA.pdf
    - 291 | Assessing the Impacts of Economic Factors on Funding for Tech Startups 
  
  ### 📗 2022/23 AY

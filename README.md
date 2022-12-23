@@ -6,7 +6,7 @@
    - 192 | M2 Follow the Money using `fec16`
    - 192 | M2 Creating Static Maps 
   
-  #### Final Projects
+ #### Final Projects
   
    - 192 | Analyzing Unequal Opportunities in Education: 
    - ^ https://nervous-nightingale-6b8dc0.netlify.app/index.html
@@ -19,6 +19,8 @@
  
  ### 📗 2022/23 AY
  
+ #### Final Projects
+   
    - 270 | Building the `MPM` R Package: Climate-change related data and functions for North America 
    - ^ https://github.com/parunjodhi/mpm
     

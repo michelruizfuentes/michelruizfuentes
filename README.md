@@ -1,12 +1,6 @@
 ### Welcome to my GitHub 👋
 
-### 📗  
-
-   - 192 | PS7 Build your first README 
-   - 192 | M2 Follow the Money using `fec16`
-   - 192 | M2 Creating Static Maps 
-  
- #### Final Projects
+### 📗 Final Projects
   
    - 192 | [Analyzing Unequal Opportunities in Education](https://nervous-nightingale-6b8dc0.netlify.app/index.html) 
    - 237 | Vaccine Adverse Event Reporting System User Guide

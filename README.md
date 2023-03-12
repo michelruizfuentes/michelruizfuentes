@@ -17,8 +17,7 @@
  
  #### Final Projects
    
-   - 270 | Building the `MPM` R Package: Climate-change related data and functions for North America 
-   - ^ https://github.com/parunjodhi/mpm
+   - 270 | [Building the `MPM` R Package: Climate-change related data and functions for North America] (https://github.com/parunjodhi/mpm)
     
  ### 💻 Contact Information 
  

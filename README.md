@@ -1,5 +1,7 @@
 ### Welcome to my GitHub 👋
 
+My name is Michel (she/her) and I am a third-year studying Statistical and Data Science at Smith College.
+
 ### 📗 Final Projects
   
    - 192 | [Analyzing Unequal Opportunities in Education](https://nervous-nightingale-6b8dc0.netlify.app/index.html) 

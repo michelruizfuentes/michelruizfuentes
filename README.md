@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-### 📗 2021/22 AY  
+### 📗  
 
    - 192 | PS7 Build your first README 
    - 192 | M2 Follow the Money using `fec16`
@@ -12,11 +12,6 @@
    - 237 | Vaccine Adverse Event Reporting System User Guide
    - 220 | [Sickle Cell Disease Death Toll Measured by Age group](https://github.com/michelruizfuentes/-SDS220-FinalProject/blob/main/sds220_Project%20Draft%20ETA.pdf)
    - 291 | [Assessing the Impacts of Economic Factors on Funding for Tech Startups](https://github.com/michelruizfuentes/-SDS291-FinalProject/blob/main/SDS%20291%20-%20FP/final_draft_updated.pdf) 
- 
- ### 📗 2022/23 AY
- 
- #### Final Projects
-   
    - 270 | [Building the `MPM` R Package: Climate-change related data and functions for North America] (https://github.com/parunjodhi/mpm)
     
  ### 💻 Contact Information 

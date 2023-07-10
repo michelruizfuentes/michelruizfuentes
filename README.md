@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-My name is Michel (she/her) and I am a third-year studying Statistical and Data Science at Smith College. Below I have attached some projects I have worked on during my undergraduate journey,
+My name is Michel, and I am studying Statistical and Data Science at Smith College. Below I have attached some projects I have worked on during my undergraduate journey,
 
 ### 📗 Final Projects
   

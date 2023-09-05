@@ -12,11 +12,6 @@
    - 291 | [Assessing the Impacts of Economic Factors on Funding for Tech Startups](https://github.com/michelruizfuentes/-SDS291-FinalProject/blob/main/SDS%20291%20-%20FP/final_draft_updated.pdf) 
    - 270 | [Building the `MPM` R Package: Climate-change related data and functions for North America](https://github.com/parunjodhi/mpm)
    - 300 | [Investigating the Impact of Monetary Rewards on Choice Behavior, Decision Making and Risk Management](https://github.com/michelruizfuentes/sds_300finalproject)
-    
- ### 💻 Contact Information 
- 
- 
-You can contact me at mruizfuentes@smith.edu
 
 <!--
 **michelruizfuentes/michelruizfuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

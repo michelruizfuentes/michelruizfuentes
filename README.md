@@ -1,8 +1,12 @@
-### Welcome to my GitHub 👋
+### Welcome to my GitHub 👋 My name is Michel
 
-My name is Michel, and I am studying Statistical and Data Science at Smith College. Below I have attached some projects I have worked on during my undergraduate journey,
+   - I am Salvadoran-American and was born in Washington, District of Columbia
+   - I am pursuing a B.A in Statistical and Data Science at Smith College
+   - I am interested in science-technology-society (STS), financial literacy, and civic engagement
 
 ### 📗 Final Projects
+
+Below I have listed some analytical projects I have worked on using R,
   
    - 192 | [Analyzing Unequal Opportunities in Education](https://nervous-nightingale-6b8dc0.netlify.app/index.html) 
    - 237 | Vaccine Adverse Event Reporting System User Guide
@@ -14,7 +18,7 @@ My name is Michel, and I am studying Statistical and Data Science at Smith Colle
  ### 💻 Contact Information 
  
  
-You can reach me at mruizfuentes@smith.edu. Thank you for visiting my page!
+You can contact me at mruizfuentes@smith.edu
 
 <!--
 **michelruizfuentes/michelruizfuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

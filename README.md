@@ -1,10 +1,10 @@
-### Welcome to my GitHub 👋 My name is Michel
+### Welcome to my GitHub 👋 my name is Michel
 
    - I am Salvadoran-American and was born in Washington, D.C.
    - I am pursuing a B.A in Statistical and Data Science at Smith College
    - I am interested in science-technology-society (STS), financial literacy, and civic engagement
 
-### 📗 Data analytics final projects in R
+### 📗 Final projects in SDS | Data analytics in R
   
    - 192 | [Analyzing Unequal Opportunities in Education](https://nervous-nightingale-6b8dc0.netlify.app/index.html) 
    - 237 | Vaccine Adverse Event Reporting System User Guide

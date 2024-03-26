@@ -1,7 +1,6 @@
 ### Welcome to my GitHub 👋 my name is Michel
 
-   - I am Salvadoran-American and was born in Washington, D.C.
-   - I am pursuing a B.A in Statistical and Data Science at Smith College
+   - I am pursuing a B.A in Statistical and Data Science and minor in Eduaction at Smith College
    - I am interested in science-technology-society (STS), financial literacy, and civic engagement
 
 ### 📗 Final projects in SDS | Data analytics in R
